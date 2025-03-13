@@ -43,6 +43,7 @@ In this project, we will create a **Shell Script** to track the following AWS re
 **•	IAM Users** (active user accounts)
 
 The script will:
+
 **1.	Retrieve resource details** using AWS CLI.
 
 **2.	Filter out unnecessary details** using jq.
