@@ -2,7 +2,7 @@
 
 **Introduction**
 
-Shell scripting is an essential skill for **DevOps Engineers, Cloud Engineers, and System Administrators. It enables automation of repetitive tasks, system monitoring, and configuration management.
+Shell scripting is an essential skill for **DevOps Engineers**, Cloud Engineers, and System Administrators. It enables automation of repetitive tasks, system monitoring, and configuration management.
 
 In this guide, we will explore **advanced shell scripting concepts**, including:
 
