@@ -57,6 +57,7 @@ The script will:
 **Prerequisites**
 
 Before proceeding, ensure you have:
+
 •	An **AWS account** with IAM permissions to list resources.
 
 **•	AWS CLI installed** and configured.
