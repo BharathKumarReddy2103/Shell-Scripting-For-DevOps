@@ -1,4 +1,4 @@
-**Shell Scripting for DevOps Engineers**
+**Shell Scripting for DevOps**
 
 **Introduction**
 
